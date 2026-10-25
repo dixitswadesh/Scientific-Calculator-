@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pixel.calculator.pro",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:CD:07:4B:40:86:40:D6:53:76:43:E8:EF:77:71:4E:BE:92:69:B4:97:82:59:11:80:67:53:42:4F:B2"
+      ]
+    }
+  }
+]

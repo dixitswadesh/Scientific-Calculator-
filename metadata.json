@@ -1,0 +1,6 @@
+{
+  "name": "Android Calculator Pro - Play Store & Phone Install Ready",
+  "description": "A sleek Material You Android calculator with scientific modes, unit converters, haptics, direct phone install via PWA, and ready-to-publish Google Play Store export kit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
